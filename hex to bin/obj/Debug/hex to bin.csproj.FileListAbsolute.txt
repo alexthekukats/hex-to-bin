@@ -1,0 +1,7 @@
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\bin\Debug\hex to bin.exe.config
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\bin\Debug\hex to bin.exe
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\bin\Debug\hex to bin.pdb
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\obj\Debug\hex to bin.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\obj\Debug\hex to bin.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\obj\Debug\hex to bin.exe
+D:\Alex\Dokkok\GitHub\hex to bin\hex to bin\obj\Debug\hex to bin.pdb
